@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 Currently crafting applications in AI, specializing in LLMs, AI Agents, Multi-Component Pipelines (MCPs), and Retrieval-Augmented Generation (RAG).
+- 🧠 Currently crafting applications in AI, specializing in LLMs, AI Agents, Model Context Protocols (MCPs), and Retrieval-Augmented Generation (RAG).
 - 💻 Full-stack developer with a strong focus on the MERN stack, Python, and Java—delivering production-ready solutions end-to-end.
 - 🚀 Passionate about challenges, learning, and growing every day.
 - 🎓 Part-time Computer Science Teaching Assistant, helping others level up their skills.
